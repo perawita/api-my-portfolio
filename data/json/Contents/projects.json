@@ -1,0 +1,154 @@
+{
+  "List_projects": [
+    {
+      "id": 1,
+      "title": "Moonbeam",
+      "link": "https://gomoonbeam.com",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/moonbeam.png",
+      "description": "Moonbeam is a project management tool that helps teams collaborate effectively.",
+      "status": "sell",
+      "created_at": "2024-08-01T00:00:00Z",
+      "updated_at": "2024-08-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/cursor.png",
+      "description": "Cursor is a productivity app designed to streamline workflow and task management.",
+      "status": "non_sell",
+      "created_at": "2024-08-02T00:00:00Z",
+      "updated_at": "2024-08-02T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Rogue",
+      "link": "https://userogue.com",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/rogue.png",
+      "description": "Rogue is an advanced AI tool for analyzing and responding to government RFPs.",
+      "status": "non_sell",
+      "created_at": "2024-08-03T00:00:00Z",
+      "updated_at": "2024-08-03T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Editorially",
+      "link": "https://editorially.org",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/editorially.png",
+      "description": "Editorially is a content creation and management platform for writers and editors.",
+      "status": "non_sell",
+      "created_at": "2024-08-04T00:00:00Z",
+      "updated_at": "2024-08-04T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Editrix AI",
+      "link": "https://editrix.ai",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/editrix.png",
+      "description": "Editrix AI is a smart editing tool that enhances text quality with AI-driven suggestions.",
+      "status": "non_sell",
+      "created_at": "2024-08-05T00:00:00Z",
+      "updated_at": "2024-08-05T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Pixel Perfect",
+      "link": "https://app.pixelperfect.quest",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/pixelperfect.png",
+      "description": "Pixel Perfect is a design tool that ensures pixel-perfect precision for web and mobile interfaces.",
+      "status": "non_sell",
+      "created_at": "2024-08-06T00:00:00Z",
+      "updated_at": "2024-08-06T00:00:00Z"
+    },
+    {
+      "id": 7,
+      "title": "Algochurn",
+      "link": "https://algochurn.com",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/algochurn.png",
+      "description": "Algochurn is a platform for preparing and mastering technical interviews with algorithm challenges.",
+      "status": "non_sell",
+      "created_at": "2024-08-07T00:00:00Z",
+      "updated_at": "2024-08-07T00:00:00Z"
+    },
+    {
+      "id": 8,
+      "title": "Aceternity UI",
+      "link": "https://ui.aceternity.com",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/aceternityui.png",
+      "description": "Aceternity UI provides a set of user interface components for rapid application development.",
+      "status": "non_sell",
+      "created_at": "2024-08-08T00:00:00Z",
+      "updated_at": "2024-08-08T00:00:00Z"
+    },
+    {
+      "id": 9,
+      "title": "Tailwind Master Kit",
+      "link": "https://tailwindmasterkit.com",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/tailwindmasterkit.png",
+      "description": "Tailwind Master Kit offers production-ready Tailwind CSS components for building responsive websites.",
+      "status": "non_sell",
+      "created_at": "2024-08-09T00:00:00Z",
+      "updated_at": "2024-08-09T00:00:00Z"
+    },
+    {
+      "id": 10,
+      "title": "SmartBridge",
+      "link": "https://smartbridgetech.com",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/smartbridge.png",
+      "description": "SmartBridge is a tech solution that facilitates seamless integration of various systems and data sources.",
+      "status": "non_sell",
+      "created_at": "2024-08-10T00:00:00Z",
+      "updated_at": "2024-08-10T00:00:00Z"
+    },
+    {
+      "id": 11,
+      "title": "Renderwork Studio",
+      "link": "https://renderwork.studio",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/renderwork.png",
+      "description": "Renderwork Studio is a creative studio specializing in high-quality 3D rendering and animation.",
+      "status": "non_sell",
+      "created_at": "2024-08-11T00:00:00Z",
+      "updated_at": "2024-08-11T00:00:00Z"
+    },
+    {
+      "id": 12,
+      "title": "Creme Digital",
+      "link": "https://cremedigital.com",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/cremedigital.png",
+      "description": "Creme Digital is a digital marketing agency offering comprehensive online marketing services.",
+      "status": "non_sell",
+      "created_at": "2024-08-12T00:00:00Z",
+      "updated_at": "2024-08-12T00:00:00Z"
+    },
+    {
+      "id": 13,
+      "title": "Golden Bells Academy",
+      "link": "https://goldenbellsacademy.com",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/goldenbellsacademy.png",
+      "description": "Golden Bells Academy is an educational platform providing online courses and training programs.",
+      "status": "non_sell",
+      "created_at": "2024-08-13T00:00:00Z",
+      "updated_at": "2024-08-13T00:00:00Z"
+    },
+    {
+      "id": 14,
+      "title": "Invoker Labs",
+      "link": "https://invoker.lol",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/invoker.png",
+      "description": "Invoker Labs offers innovative tools and solutions for game development and analytics.",
+      "status": "non_sell",
+      "created_at": "2024-08-14T00:00:00Z",
+      "updated_at": "2024-08-14T00:00:00Z"
+    },
+    {
+      "id": 15,
+      "title": "E Free Invoice",
+      "link": "https://efreeinvoice.com",
+      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/efreeinvoice.png",
+      "description": "E Free Invoice is a free invoicing solution designed to simplify and manage invoicing tasks.",
+      "status": "non_sell",
+      "created_at": "2024-08-15T00:00:00Z",
+      "updated_at": "2024-08-15T00:00:00Z"
+    }
+  ]
+}

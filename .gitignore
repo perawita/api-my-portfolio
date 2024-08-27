@@ -1,27 +1,6 @@
 # Node modules
 node_modules/
 
-# Logs
-logs/
-*.log
 
 # Environment variables
 .env
-
-# Build output
-dist/
-build/
-
-# Temporary files
-*.tmp
-*.temp
-
-# IDE and Editor files
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS generated files
-.DS_Store
-Thumbs.db
