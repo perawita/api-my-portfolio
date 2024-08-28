@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-import controller from '@/controllers/controller.js';
+const controller = require('@/controllers/controller.js');
 
 router.get('/', controller.index.bind(controller));
 router.get('/send-massage', controller.send_massage.bind(controller));

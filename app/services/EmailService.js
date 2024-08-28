@@ -1,5 +1,5 @@
 const { google } = require('googleapis');
-import env from '@/config/env.js';
+const env = require('@/config/env.js');
 
 /**
  * Kelas EmailService

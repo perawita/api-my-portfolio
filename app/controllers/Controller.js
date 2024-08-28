@@ -1,5 +1,5 @@
-import email_send_services from '@/services/EmailService.js';
-import email_send_config from '@/config/sendmail.js';
+const email_send_services = require('@/services/EmailService.js');
+const email_send_config = require('@/config/sendmail.js');
 
 class Controller {
     /**

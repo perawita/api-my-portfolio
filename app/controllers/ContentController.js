@@ -1,4 +1,4 @@
-import content from '@/services/ContentServices.js';
+const content = require('@/services/ContentServices.js');
 
 class ContentController {
     
