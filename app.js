@@ -1,4 +1,5 @@
 require('module-alias/register');   //medaftarkan module-alias
+require('dotenv').config();
 
 const express = require('express');
 const app = express();
@@ -6,7 +7,7 @@ const app = express();
 /**
  * import file dari folder app
  */
-const env = require('@/config/env.js');
+// const env = require('@/config/env.js');
 
 const route = require('@/routes/route.js');
 const route_api = require('@/routes/api.js');
@@ -26,8 +27,8 @@ app.use('/api', origin_middleware);
 app.use('/', route);
 app.use('/api', route_api);
 
-app.listen(env.port, () => console.log
+app.listen(process.env.port, () => console.log
 (`
-    Server running on port ${env.port}
-    - Server: http://localhost:${env.port}
+    Server running on port ${process.env.port}
+    - Server: http://localhost:${process.env.port}
 `));
