@@ -1,10 +1,10 @@
 {
   "name": "my-portfolio",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "npx nodemon app.js",
-    "start": "node app.js"
+    "dev": "npx nodemon index.js",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
