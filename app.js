@@ -7,6 +7,7 @@ const app = express();
  * import file dari folder app
  */
 const env = require('@/config/env.js');
+console.log(`data port di dalam file env.js adalah: ${env.port}`)
 
 const route = require('@/routes/route.js');
 const route_api = require('@/routes/api.js');
