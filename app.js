@@ -32,4 +32,4 @@
 //     - Server: http://localhost:${env.port}
 // `));
 
-console.log(`info masseh: ${env.port}`)
+console.log(`info masseh: 3000`)
