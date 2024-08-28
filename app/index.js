@@ -7,12 +7,12 @@ const app = express();
 /**
  * import file dari folder app
  */
-const env = require('./config/env.js');
+const env = require('@/config/env.js');
 
-const route = require('./routes/route.js');
-const route_api = require('./routes/api.js');
+const route = require('@/routes/route.js');
+const route_api = require('@/routes/api.js');
 
-const origin_middleware = require('./middlewares/OriginMiddleware.js');
+const origin_middleware = require('@/middlewares/OriginMiddleware.js');
 
 /**
  *  Middleware
