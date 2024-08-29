@@ -1,6 +1,6 @@
 const cors = require('cors');
 
-const env = require('@/config/env.js');
+const env = require('../config/env.js');
 
 class OriginMiddleware {
   static allowed_origins = [

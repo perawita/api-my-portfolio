@@ -1,4 +1,4 @@
-const project_model = require('@/models/ProductModel');
+const project_model = require('../models/ProductModel');
 
 class ProductController {
     // Mendapatkan semua proyek

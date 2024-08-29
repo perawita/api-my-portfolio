@@ -1,8 +1,8 @@
 const express = require('express');
 const api = express.Router();
-const product_controller = require('@/controllers/ProductController');
-const contact_controller = require('@/controllers/ContactController');
-const content_controller = require('@/controllers/ContentController');
+const product_controller = require('../controllers/ProductController');
+const contact_controller = require('../controllers/ContactController');
+const content_controller = require('../controllers/ContentController');
 
 /**
  * Rute api projects

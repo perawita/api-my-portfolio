@@ -1,4 +1,4 @@
-const connection = require('@/config/database.js');
+const connection = require('../config/database.js');
 
 class ProductModel {
     // Mendapatkan semua proyek
