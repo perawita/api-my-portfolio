@@ -32,5 +32,3 @@ app.listen(env.port, () => console.log
     Server running on port ${env.port}
     - Server: http://localhost:${env.port}
 `));
-
-module.exports = app;
