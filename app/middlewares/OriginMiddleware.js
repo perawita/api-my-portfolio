@@ -6,7 +6,6 @@ class OriginMiddleware {
   static allowed_origins = [
     env.frontend_api,
     'https://my-portfolio-rho-gules.vercel.app',
-    'https://api-my-portofolio.vercel.app'
   ];
 
   static cors_options = {

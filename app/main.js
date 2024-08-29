@@ -1,5 +1,6 @@
-// Register module-alias at the top of the main entry file
-// require('module-alias/register');
+/**
+ * file ini dibuat hanya sebagai pengganti fungsi alias 
+ */
 
 // Import controllers using alias
 const productController = require('./controllers/ProductController.js');
