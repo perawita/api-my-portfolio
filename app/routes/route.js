@@ -7,6 +7,7 @@ const asset_controller = require('../controllers/AssetController');
 router.get('/', controller.index.bind(controller));
 router.get('/send-massage', controller.send_massage.bind(controller));
 router.get('/callback', controller.callback.bind(controller));
-router.get('/thumbnail/:thumbnailID', asset_controller.getImages.bind(asset_controller));
+
+router.get('/asset/project/thumbnail/:thumbnailID', asset_controller.getImages.bind(asset_controller));
 
 module.exports = router;
