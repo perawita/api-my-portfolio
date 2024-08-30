@@ -1,5 +1,7 @@
 const express = require('express');
+const path = require('path');
 const app = express();
+
 
 /**
  * import file dari folder app
@@ -8,9 +10,9 @@ const main = require('./app/main');
 /**
  *  Middleware
  */
+app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.json());
 app.use('/api', main.originMiddleware);
-
 
 /**
  *  Routes

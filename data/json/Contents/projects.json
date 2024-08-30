@@ -2,11 +2,11 @@
   "List_projects": [
     {
       "id": 1,
-      "title": "Moonbeam",
-      "link": "https://gomoonbeam.com",
-      "thumbnail": "https://aceternity.com/images/products/thumbnails/new/moonbeam.png",
-      "description": "Moonbeam is a project management tool that helps teams collaborate effectively.",
-      "status": "sell",
+      "title": "Portal Air Terjun Benang Kelambu",
+      "link": "https://informasi-pariwisata.vercel.app",
+      "thumbnail": "https://api-my-portofolio.vercel.app/api/asset/project/thumbnail/moonbeam.webp",
+      "description": "Website pemesanan tiket serta informasi dari parawisata Air Terjun Benang Kelambu.",
+      "status": "non_sell",
       "created_at": "2024-08-01T00:00:00Z",
       "updated_at": "2024-08-01T00:00:00Z"
     },

@@ -4,7 +4,7 @@ const path = require('path');
 /**
  * Kelas yang mewakili layanan konten untuk menangani data konten.
  */
-class ContentServices {
+class ContentService {
     /**
      * Mengambil data layanan konten dari file JSON.
      * 
@@ -75,4 +75,4 @@ class ContentServices {
     }
 }
 
-module.exports = new ContentServices();
+module.exports = new ContentService();

@@ -1,4 +1,4 @@
-const content = require('../services/ContentServices.js');
+const content = require('../services/ContentService.js');
 
 class ContentController {
     
