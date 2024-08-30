@@ -3,7 +3,8 @@ const path = require('path');
 class AssetService {
     constructor() {
         // Menentukan path relatif dari direktori aplikasi
-        this.thumbnailPath = path.join(__dirname, '../../public/assets/images/projects/thumbnails/');
+        this.rootPath = path.join(__dirname, '../../');
+        this.thumbnailPath = path.join(this.rootPath, 'public/assets/images/projects/thumbnails/');
     }
 
     getThumbnail(nameThumbnail) {
