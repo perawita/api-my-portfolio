@@ -5,7 +5,7 @@ const env = require('../config/env.js');
 class OriginMiddleware {
   static allowed_origins = [
     env.frontend_api,
-    'https://my-portfolio-rho-gules.vercel.app',
+    'https://perawita-yasa.vercel.app',
   ];
 
   static cors_options = {
